@@ -10,6 +10,7 @@ using System.Globalization;
 
 namespace Hexviewer
 {
+    //luat de pe net, incerc sa l inteleg
     class Program
     {
         public static void Main(string[] args)
