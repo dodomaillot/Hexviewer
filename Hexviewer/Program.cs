@@ -1,16 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Numerics;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
-using System.Globalization;
 
 namespace Hexviewer
-{
-    //luat de pe net, incerc sa l inteleg
+{ 
     class Program
     {
         public static void Main(string[] args)
